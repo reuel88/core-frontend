@@ -1,0 +1,16 @@
+* {
+  // fix to mysterious 1px
+  vertical-align: middle;
+  border-style: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}

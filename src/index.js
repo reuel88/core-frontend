@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './app/App';
+import App from './app/index';
 import reportWebVitals from './reportWebVitals';
 
 // render micro frontend function
