@@ -1,0 +1,53 @@
+.app {
+  &__header{
+    min-height: 64px;
+  }
+
+  &__header-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+
+    // X-Small devices (portrait phones, less than 576px)
+    max-width: 100%;
+
+    // Small devices (landscape phones, 576px and up)
+    @media (min-width: 576px) {
+      max-width: 540px;
+    }
+
+    // Medium devices (tablets, 768px and up)
+    @media (min-width: 768px) {
+      max-width: 720px;
+    }
+
+    // Large devices (desktops, 992px and up)
+    @media (min-width: 992px) {
+      max-width: 960px;
+    }
+
+    // X-Large devices (large desktops, 1200px and up)
+    @media (min-width: 1200px) {
+      max-width: 1140px;
+    }
+
+    // XX-Large devices (larger desktops, 1400px and up)
+    @media (min-width: 1400px) {
+      max-width: 1320px;
+    }
+  }
+
+  &__header-logo{
+    height: 60px;
+    width: auto;
+  }
+
+  &__header-right-container {
+   text-align: right;
+  }
+
+  &__header-security-text{
+    margin-left: 4px;
+  }
+}
