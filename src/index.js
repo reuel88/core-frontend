@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.css';
 import App from './app/index';
 import reportWebVitals from './reportWebVitals';
 
 // render micro frontend function
-window.renderCreateReactApp = (containerId, history) => {
+window.renderContainer = (containerId, history) => {
     ReactDOM.render(
         <React.StrictMode>
             <App history={history}/>
@@ -14,12 +15,12 @@ window.renderCreateReactApp = (containerId, history) => {
 };
 
 // unmount micro frontend function
-window.unmountCreateReactApp = containerId => {
+window.unmountContainer = containerId => {
     ReactDOM.unmountComponentAtNode(document.getElementById(containerId));
 };
 
 // Mount to root if it is not a micro frontend
-if (!document.getElementById('CreateReactApp-container')) {
+if (!document.getElementById('Container-container')) {
     ReactDOM.render(<App />, document.getElementById('root'));
 }
 

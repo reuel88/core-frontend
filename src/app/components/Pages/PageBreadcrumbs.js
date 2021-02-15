@@ -1,7 +1,11 @@
 import AppBreadcrumbs from "../AppBreadcrumbs/AppBreadcrumbs";
 import routes from "../../routes/routes";
 
-const PageBreadcrumbs = ({match}) => {
+const PageBreadcrumbs = (props) => {
+    const {match} = props;
+
+    if (typeof match === "undefined") return null;
+
     const crumbs = routes
         .filter(({path}) => match.path.includes(path))
         .map(({path, ...rest}) => ({

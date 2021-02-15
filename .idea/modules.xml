@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/core-frontend.iml" filepath="$PROJECT_DIR$/.idea/core-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../invoices-frontend/.idea/invoices-frontend.iml" filepath="$PROJECT_DIR$/../invoices-frontend/.idea/invoices-frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/../react-frontend/.idea/react-frontend.iml" filepath="$PROJECT_DIR$/../react-frontend/.idea/react-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../single-payment-frontend/.idea/single-payment-frontend.iml" filepath="$PROJECT_DIR$/../single-payment-frontend/.idea/single-payment-frontend.iml" />
     </modules>
   </component>
 </project>

@@ -1,27 +1,30 @@
 import React from 'react';
-import {BrowserRouter, Switch, Route, withRouter} from 'react-router-dom';
+import {BrowserRouter as Router, Switch, Route, withRouter} from 'react-router-dom';
 import './index.scss';
+import defaultHistory from './history';
 import AppHeader from './components/AppHeader/AppHeader';
 import AppNavigation from "./components/AppNavigation/AppNavigation";
 import routes from "./routes/routes";
 
-const App = withRouter(() => {
+const App = withRouter((props) => {
+    const {location} = props;
+
     return (<React.Fragment>
         <AppHeader/>
         <AppNavigation/>
-        <Switch>
+        <Switch location={location}>
             {routes.map(({path, component: Component}, key) => {
-                return <Route exact path={path} component={Component} key={key}/>;
+                return <Route path={path} component={Component} key={key}/>;
             })}
         </Switch>
-    </React.Fragment>);
-});
+    </React.Fragment>)
+})
 
-const Index = () => {
+const Index = ({history = defaultHistory}) => {
     return (
-        <BrowserRouter>
-            <App/>
-        </BrowserRouter>
+        <Router>
+            <App history={history}/>
+        </Router>
     );
 }
 

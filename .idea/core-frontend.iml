@@ -11,5 +11,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="react-frontend" />
     <orderEntry type="module" module-name="react-frontend" />
+    <orderEntry type="module" module-name="single-payment-frontend" />
+    <orderEntry type="module" module-name="invoices-frontend" />
   </component>
 </module>

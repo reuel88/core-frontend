@@ -1,40 +1,20 @@
-import {CreateReactApp} from '../components/Pages/Pages';
+import {CreateReactApp, Invoices, SinglePayment, PaymentHistory} from '../components/Pages/Pages';
 
 const routes = [
     {
         path: '/invoices',
         name: 'Invoices',
-        component: CreateReactApp,
-    },
-    {
-        path: '/invoices/checkout',
-        name: 'Checkout',
-        component: CreateReactApp,
-    },
-    {
-        path: '/invoices/checkout/receipt',
-        name: 'Receipt',
-        component: CreateReactApp,
+        component: Invoices,
     },
     {
         path: '/single-payment',
         name: 'One-off Payment',
-        component: CreateReactApp,
-    },
-    {
-        path: '/single-payment/checkout',
-        name: 'Checkout',
-        component: CreateReactApp,
-    },
-    {
-        path: '/single-payment/checkout/receipt',
-        name: 'Receipt',
-        component: CreateReactApp,
+        component: SinglePayment,
     },
     {
         path: '/payment-history',
         name: 'Payment History',
-        component: CreateReactApp,
+        component: PaymentHistory,
     },
     {
         path: '/statements',
