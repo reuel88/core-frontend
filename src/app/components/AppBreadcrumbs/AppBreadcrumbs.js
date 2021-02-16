@@ -13,19 +13,14 @@ const AppBreadcrumbs = ({crumbs = []}) => {
             {crumbs.map(({name, path}, key) => {
                     return (<li className="app__breadcrumb-item" key={key}>
                         {key + 1 === crumbs.length ? (
-                            <span className="app__crumb app__crumb--bold">
-                            {name}
-                        </span>
+                            <span className="app__crumb app__crumb--bold">{name}</span>
                         ) : (
-                            <Link className="app__crumb" to={path}>
-                                {name}
-                            </Link>
+                            <Link className="app__crumb" to={path}> {name}</Link>
                         )}
                     </li>)
                 }
             )}
         </ol>
-
     </nav>);
 }
 

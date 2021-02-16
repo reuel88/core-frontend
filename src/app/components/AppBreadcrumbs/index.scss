@@ -37,5 +37,9 @@
   &__crumb{
     display: block;
     padding-right: 12px;
+
+    &--bold{
+      font-weight: bold;
+    }
   }
 }
