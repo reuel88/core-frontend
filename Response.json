@@ -1,0 +1,1078 @@
+{
+  "Incorporation": {
+    "RegIncorpIn": "Sydney",
+    "RegIncorpDate": {
+      "Year": 1999,
+      "Month": 12,
+      "Day": 31
+    },
+    "CompanyType": "APTY",
+    "CompanyClass": "EQUT",
+    "CompanySubClass": "EXPN",
+    "CompanyStatus": "AC",
+    "NameStartDate": {
+      "Year": 1999,
+      "Month": 12,
+      "Day": 31
+    },
+    "StatusStartDate": {
+      "Year": 1999,
+      "Month": 12,
+      "Day": 31
+    },
+    "ReviewDate": {
+      "Year": 1999,
+      "Month": 12,
+      "Day": 31
+    },
+    "IsRegisteredBusiness": true
+  },
+  "ContactDetails": {
+    "HeadOffice": {
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      },
+      "StartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "EndDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Duration": {
+        "@Units": 1000
+      },
+      "HousingStatus": "Housing status",
+      "@AddressStatus": "Current",
+      "@MailingAddress": true
+    },
+    "RegisteredOffice": {
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      },
+      "StartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "EndDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Duration": {
+        "@Units": 1000
+      },
+      "HousingStatus": "Housing status",
+      "@AddressStatus": "Current",
+      "@MailingAddress": true
+    },
+    "AustralianRegisteredOffice": {
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      },
+      "StartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "EndDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Duration": {
+        "@Units": 1000
+      },
+      "HousingStatus": "Housing status",
+      "@AddressStatus": "Current",
+      "@MailingAddress": true
+    },
+    "PrincipalPlaceOfBusiness": {
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      },
+      "StartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "EndDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Duration": {
+        "@Units": 1000
+      },
+      "HousingStatus": "Housing status",
+      "@AddressStatus": "Current",
+      "@MailingAddress": true
+    },
+    "ASICContactAddress": {
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      },
+      "StartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "EndDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Duration": {
+        "@Units": 1000
+      },
+      "HousingStatus": "Housing status",
+      "@AddressStatus": "Current",
+      "@MailingAddress": true
+    },
+    "PhoneNum": {
+      "CountryCode": "AU",
+      "AreaCode": "+61",
+      "LocalNum": "0450100552"
+    },
+    "FaxNum": {
+      "CountryCode": "AU",
+      "AreaCode": "+61",
+      "LocalNum": "0450100552"
+    },
+    "MobileNum": "0450100552",
+    "TollFreeNum": "1300 780 524 ",
+    "Email": "us@ezycollect.com.au",
+    "Website": "ezycollect.com.au",
+    "GeneralComments": "Comment"
+  },
+  "Collections": {
+    "Collection": {
+      "StartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Creditor": "Creditor",
+      "StartAmt": 1000.00,
+      "AmtOwing": 1000.00,
+      "Comments": "dispute",
+      "Status": "4",
+      "ChangeDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "ChangeType": "U",
+      "@Sequence": 1
+    },
+    "ReportDate": {
+      "Year": 1999,
+      "Month": 12,
+      "Day": 31
+    },
+    "Interviewee": "Arjun Singh",
+    "IntervieweeTitle": "Dr",
+    "CollectionHistory": {
+      "Date": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Status": "has been fully repaid"
+    }
+  },
+  "PublicFilings": {
+    "PublicFiling": {
+      "DateLodged": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DatePaid": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DateDeclared": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DischargeDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Amt": 1000.00,
+      "ActionCategory": "J",
+      "ActionTypeCode": "Code",
+      "ActionTypeDesc": "Description",
+      "Creditor": "Creditor",
+      "Court": "District Court",
+      "Status": "Dismissed",
+      "FileNum": "0123",
+      "PlaintiffName": {},
+      "Details": {},
+      "Issue": {},
+      "Comments": "dispute",
+      "Defendant": {},
+      "DefendantAddress": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      },
+      "ChageDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "ChangeType": {},
+      "@Sequence": 1
+    }
+  },
+  "CourtActions": {
+    "PetitionerAction": {
+      "Petitioner": {},
+      "PetitionerCompany": {},
+      "DateAppointed": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DateCeased": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      }
+    },
+    "CourtAction": {
+      "DateLodged": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DatePaid": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DateDeclared": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DischargeDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Amt": 1000.00,
+      "ActionCategory": "J",
+      "ActionTypeCode": "Code",
+      "ActionTypeDesc": "Description",
+      "Creditor": "Creditor",
+      "Court": "District Court",
+      "Status": {},
+      "FileNum": "0123",
+      "PlaintiffName": {},
+      "Details": {},
+      "Issue": {},
+      "Comments": "dispute",
+      "Defendant": {},
+      "DefendantAddress": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      },
+      "ChageDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "ChangeType": {},
+      "CauseOfAction": {},
+      "@Sequence": 1
+    },
+    "CourtActionHistory": {
+      "ReportDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Interviewee": "Arjun Singh",
+      "IntervieweeTitle": "Dr",
+      "HistoryItem": {
+        "ActionDate": {
+          "Year": 1999,
+          "Month": 12,
+          "Day": 31
+        },
+        "Status": {},
+        "DateSettled": {
+          "Year": 1999,
+          "Month": 12,
+          "Day": 31
+        }
+      }
+    }
+  },
+  "RegisteredCharges": {
+    "RegisteredCharge": {
+      "DateRegistered": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DateCreated": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Type": {},
+      "Status": {},
+      "FileNum": "0123",
+      "Indebtedness": {},
+      "SecuredParties": {
+        "SecuredParty": {
+          "FirstName": {},
+          "OtherNames": {},
+          "Surname": {},
+          "UnformattedName": {},
+          "OrganisationName": {},
+          "RelationshipToSubject": {}
+        }
+      },
+      "DocumentsReceived": {
+        "DocumentReceived": {
+          "Form": {
+            "FormCode": {},
+            "Desc": {}
+          },
+          "DateReceived": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "DateProcessed": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "EffectiveDate": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "DocumentNum": {},
+          "Qualifier": {},
+          "UnderRequisition": {},
+          "NumOfPages": {},
+          "BarCode": {},
+          "IsUnderExternalAdmin": {}
+        }
+      }
+    }
+  },
+  "SecurityInterests": {
+    "SecurityInterest": {
+      "RegisteredDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "ExpiryDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Status": {},
+      "SecuredParty": {
+        "FirstName": {},
+        "OtherNames": {},
+        "Surname": {},
+        "UnformattedName": {},
+        "CompanyNum": {},
+        "CompanyNumType": {},
+        "OrganisationName": {},
+        "RelationshipToSubject": {}
+      },
+      "Collateral": {
+        "CollateralType": {},
+        "Year": 1999,
+        "Make": {},
+        "Model": {},
+        "RegistrationNum": {},
+        "AircraftClass": {},
+        "Description": {},
+        "CollateralPurpose": {},
+        "PreviousRegistrationNumber": {},
+        "CollateralTypeDescription": {}
+      },
+      "IsTransitional": {},
+      "IsAccessRestricted": {},
+      "IsMigration": {},
+      "PMSI": {},
+      "SearchDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "SourceRegister": {},
+      "OriginalStartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      }
+    },
+    "Summary": {
+      "CollateralTypeCount": {
+        "CollateralType": {},
+        "Total": {},
+        "Active": {}
+      }
+    }
+  },
+  "CourtActionComments": {},
+  "Directors": {
+    "Director": {
+      "Entity": {
+        "Person": {
+          "FirstName": {},
+          "OtherName": {},
+          "Surname": {},
+          "DateOfBirth": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "BirthLocation": {},
+          "BirthState": {}
+        },
+        "Company": {
+          "Name": {},
+          "Acn": {}
+        }
+      },
+      "PrincipalTitle": {},
+      "DateAppointed": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DateCeased": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      },
+      "OtherBoards": {
+        "Board": {
+          "OrganisationName": {},
+          "DUNS": {},
+          "CompanyNum": {},
+          "ABN": {},
+          "CompanyStatus": "AC",
+          "DateDeregistered": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "ReasonDeregistered": {},
+          "DeclarationOfSolvency": {}
+        }
+      },
+      "OtherBoardsPrevious": {
+        "Board": {
+          "OrganisationName": {},
+          "DUNS": {},
+          "CompanyNum": {},
+          "ABN": {},
+          "CompanyStatus": "AC",
+          "DateDeregistered": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "ReasonDeregistered": {},
+          "DeclarationOfSolvency": {}
+        }
+      }
+    }
+  },
+  "DirectorChanges": {
+    "Change": {
+      "ReportDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Name": {},
+      "ChangeType": {},
+      "ChangeDate": {}
+    }
+  },
+  "DirectorAppointments": {
+    "Appointment": {
+      "Name": {},
+      "DateAppointed": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      }
+    }
+  },
+  "DirectorBackgrounds": {
+    "DirectorBackground": {
+      "FirstName": {},
+      "OtherName": {},
+      "Surname": {},
+      "JobTitle": {},
+      "ActiveInDailyOperations": {},
+      "AreaOfResponsibility": {},
+      "OtherCompany": {
+        "OrganisationName": {},
+        "DUNS": {},
+        "CompanyNum": {},
+        "ABN": {},
+        "CompanyStatus": "AC",
+        "InvolvementType": {}
+      },
+      "EmploymentHistory": {
+        "OrganisationName": {},
+        "DUNS": {},
+        "CompanyNum": {},
+        "ABN": {},
+        "CompanyStatus": "AC",
+        "OccupationCode": {},
+        "IsCurrentJob": {},
+        "StartDate": {
+          "Year": 1999,
+          "Month": 12,
+          "Day": 31
+        },
+        "EndDate": {
+          "Year": 1999,
+          "Month": 12,
+          "Day": 31
+        },
+        "Duration": {
+          "@Units": 1000
+        },
+        "LastPositionHeld": {}
+      },
+      "Qualifications": {},
+      "AreaOfExpertise": {},
+      "EnteredIndustry": {},
+      "CourtActions": {
+        "CourtAction": {
+          "DateLodged": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "DatePaid": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "DateDeclared": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "DischargeDate": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "Amt": 1000.00,
+          "ActionCategory": "J",
+          "ActionTypeCode": "Code",
+          "ActionTypeDesc": "Description",
+          "Creditor": "Creditor",
+          "Court": "District Court",
+          "Status": {},
+          "FileNum": "0123",
+          "PlaintiffName": {},
+          "Details": {},
+          "Issue": {},
+          "Comments": "dispute",
+          "Defendant": {},
+          "DefendantAddress": {
+            "CareOf": "Arjun Singh",
+            "UnformattedAddress": "20-40 Meagher St",
+            "Suburb": "Chippendale",
+            "City": "Sydney",
+            "State": "NSW",
+            "Postcode": 2008,
+            "Country": "Australia"
+          },
+          "ChageDate": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "ChangeType": {},
+          "@Sequence": 1
+        }
+      },
+      "CourtActionHistory": {
+        "ReportDate": {
+          "Year": 1999,
+          "Month": 12,
+          "Day": 31
+        },
+        "Interviewee": "Arjun Singh",
+        "IntervieweeTitle": "Dr",
+        "HistoryItem": {
+          "ActionDate": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "Status": {},
+          "DateSettled": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          }
+        }
+      },
+      "Comments": "dispute"
+    },
+    "PrincipalExecutiveOfficer": {
+      "Entity": {
+        "Person": {
+          "FirstName": {},
+          "OtherName": {},
+          "Surname": {},
+          "DateOfBirth": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "BirthLocation": {},
+          "BirthState": {}
+        },
+        "Company": {
+          "Name": {},
+          "Acn": {}
+        }
+      },
+      "PrincipalTitle": {},
+      "DateAppointed": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DateCeased": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      }
+    },
+    "CompanySecretary": {
+      "Entity": {
+        "Person": {
+          "FirstName": {},
+          "OtherName": {},
+          "Surname": {},
+          "DateOfBirth": {
+            "Year": 1999,
+            "Month": 12,
+            "Day": 31
+          },
+          "BirthLocation": {},
+          "BirthState": {}
+        },
+        "Company": {
+          "Name": {},
+          "Acn": {}
+        }
+      },
+      "PrincipalTitle": {},
+      "DateAppointed": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DateCeased": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      }
+    }
+  },
+  "MonitoredDunsList": {},
+  "History": {},
+  "Shares": {
+    "ShareType": {},
+    "Structure": {
+      "Class": {
+        "ClassCode": {},
+        "SharesIssued": {},
+        "TotalPaidOnShares": {}
+      }
+    },
+    "MajorShareholders": {
+      "DateRecorded": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "InformationSource": {},
+      "TotalNumOfShares": {},
+      "Shareholder": {
+        "Member": {
+          "FirstName": {},
+          "OtherName": {},
+          "Surname": {},
+          "UnformattedName": {},
+          "OrganisationHeadingType": {},
+          "CompanyNum": {},
+          "OrganisationName": {},
+          "Address": {
+            "CareOf": "Arjun Singh",
+            "UnformattedAddress": "20-40 Meagher St",
+            "Suburb": "Chippendale",
+            "City": "Sydney",
+            "State": "NSW",
+            "Postcode": 2008,
+            "Country": "Australia"
+          }
+        },
+        "ClassCode": {},
+        "SharesHeld": {},
+        "PercentHeld": {},
+        "IsJointHolding": {},
+        "IsBeneficiallyHeld": {},
+        "IsPaid": {},
+        "DocumentNum": {},
+        "DocNumQualifier": {}
+      }
+    },
+    "PreviousShareholders": {
+      "Shareholder": {
+        "Member": {
+          "FirstName": {},
+          "OtherName": {},
+          "Surname": {},
+          "UnformattedName": {},
+          "OrganisationName": {},
+          "Address": {
+            "CareOf": "Arjun Singh",
+            "UnformattedAddress": "20-40 Meagher St",
+            "Suburb": "Chippendale",
+            "City": "Sydney",
+            "State": "NSW",
+            "Postcode": 2008,
+            "Country": "Australia"
+          }
+        },
+        "ClassCode": {},
+        "SharesHeld": {},
+        "PercentHeld": {},
+        "IsJointHolding": {},
+        "IsBeneficiallyHeld": {},
+        "IsPaid": {},
+        "DocumentNum": {},
+        "DocNumQualifier": {}
+      }
+    }
+  },
+  "GeneralEnquiries": {
+    "Enquiry": {
+      "Date": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Name": {},
+      "Type": {},
+      "Amount": {}
+    }
+  },
+  "DocumentsReceived": {
+    "DocumentReceived": {
+      "Form": {
+        "FormCode": {},
+        "Desc": {}
+      },
+      "DateReceived": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DateProcessed": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "EffectiveDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "DocumentNum": {},
+      "Qualifier": {},
+      "UnderRequisition": {},
+      "NumOfPages": {},
+      "BarCode": {},
+      "IsUnderExternalAdmin": {}
+    },
+    "PreASICDocument": {
+      "FormCode": {},
+      "DateReceived": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Status": {}
+    },
+    "AnnualReturn": {
+      "Year": 1999,
+      "ReturnDueDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "ExtendedReturnDueDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "AGMDueDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "ExtendedAGMDueDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "AGMHeldDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Outstanding": {}
+    }
+  },
+  "ReportDetails": {
+    "CompiledBy": {},
+    "DefaultCurrency": {}
+  },
+  "ASICBasicOrganisationDetails": {
+    "OrganisationName": {},
+    "OrganisationHeadingType": {},
+    "CompanyNum": {},
+    "ABN": {},
+    "RegIncorpIn": "Sydney",
+    "PreviousStateNo": {},
+    "RegIncorpDate": {
+      "Year": 1999,
+      "Month": 12,
+      "Day": 31
+    },
+    "GovernanceType": {},
+    "ExtractDate": {
+      "Year": 1999,
+      "Month": 12,
+      "Day": 31,
+      "Hour": {},
+      "Minute": {},
+      "Second": {}
+    },
+    "ReviewDate": {
+      "Year": 1999,
+      "Month": 12,
+      "Day": 31
+    }
+  },
+  "ASICOrganisationDetails": {
+    "ASICOrganisationDetailsItem": {
+      "DocumentNum": {},
+      "DocNumQualifier": {},
+      "OrganisationName": {},
+      "StartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "EndDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "NameStartDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "CompanyStatus": "AC",
+      "CompanyType": "APTY",
+      "CompanyClass": "EQUT",
+      "CompanySubClass": "EXPN",
+      "IsDisclosingEntity": {},
+      "DateDeregistered": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "ReasonDeregistered": {}
+    }
+  },
+  "ASICOfficerRoleDetails": {
+    "ASICOfficerRole": {
+      "OfficerRole": {},
+      "FirstName": {},
+      "OtherNames": {},
+      "Surname": {},
+      "DateOfBirth": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "BirthLocation": {},
+      "BirthState": {},
+      "OrganisationHeadingType": {},
+      "CompanyNum": {},
+      "OrganisationName": {},
+      "DateAppointed": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "CeasedDate": {
+        "Year": 1999,
+        "Month": 12,
+        "Day": 31
+      },
+      "Address": {
+        "CareOf": "Arjun Singh",
+        "UnformattedAddress": "20-40 Meagher St",
+        "Suburb": "Chippendale",
+        "City": "Sydney",
+        "State": "NSW",
+        "Postcode": 2008,
+        "Country": "Australia"
+      }
+    }
+  },
+  "CollectionsAndDefaultSummary": {
+    "CollectionAndDefaultSummary": {
+      "TotalCollectionsandDefaults": {},
+      "TotalCollectionsAndDefaults3Months": {},
+      "TotalCollectionsAndDefaults3To6Months": {},
+      "TotalCollectionsAndDefaults6To12Months": {},
+      "TotalCollectionsAndDefaults12MonthsPlus": {},
+      "TotalCollectionsAndDefaults0To12Months": {},
+      "TotalCollectionsAndDefaults0To24Months": {},
+      "TotalCollectionsAndDefaults0To60Months": {},
+      "TotalCollectionsAndDefaultsLessThan2000Dollar": {},
+      "TotalCollectionsAndDefaults2000To20000Dollar": {},
+      "TotalCollectionsAndDefaultsGreaterThan20000Dollar": {},
+      "TotalAmtOwingCollectionsandDefaults": {},
+      "TotalAmtOwingCollectionsAndDefaults3Months": {},
+      "TotalAmtOwingCollectionsAndDefaults3To6Months": {},
+      "TotalAmtOwingCollectionsAndDefaults6To12Months": {},
+      "TotalAmtOwingCollectionsAndDefaults12MonthsPlus": {},
+      "TotalAmtOwingCollectionsAndDefaults0To12Months": {},
+      "TotalAmtOwingCollectionsAndDefaults0To24Months": {},
+      "TotalAmtOwingCollectionsAndDefaults0To60Months": {},
+      "TotalAmtOwingCollectionsAndDefaultsIn0To2000": {},
+      "TotalAmtOwingCollectionsAndDefaultsIn2001To6000": {},
+      "TotalAmtOwingCollectionsAndDefaultsIn6001To11000": {},
+      "TotalAmtOwingCollectionsAndDefaultsIn11001To21000": {},
+      "TotalAmtOwingCollectionsAndDefaultsIn21000Plus": {}
+    }
+  },
+  "CourtActionsSummary": {
+    "CourtActionsSummary": {
+      "TotalCourtActions": {},
+      "TotalCourtActions3Months": {},
+      "TotalCourtActions3To6Months": {},
+      "TotalCourtActions6To12Months": {},
+      "TotalCourtActions12MonthsPlus": {},
+      "TotalCourtActions0To12Months": {},
+      "TotalCourtActions0To24Months": {},
+      "TotalCourtActions0To60Months": {},
+      "TotalCourtActionLessThan2000": {},
+      "TotalCourtAction2000To20000": {},
+      "TotalCourtActionGreaterThan20000": {},
+      "TotalCourtActionAmount0To3Months": {},
+      "TotalCourtActionAmount0To12Months": {},
+      "TotalCourtActionAmount0To24Months": {},
+      "TotalCourtActionAmount0To60Months": {}
+    }
+  }
+}

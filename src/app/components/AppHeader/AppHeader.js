@@ -4,7 +4,6 @@ import './index.scss';
 import logo from '../../../logo.svg';
 
 const AppHeader = () => {
-
     return (
         <header className="app__header">
             <div className="app__header-container">
